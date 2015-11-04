@@ -1,2 +1,9 @@
 # Tek-ESP8266-RFID-Access-Control
-Read wiegand input from a scanner, query a database over wifi and turn on a device or open a door.
+
+## Requirements ##
+* Accept [Wiegand](https://en.wikipedia.org/wiki/Wiegand_interface) data from a rfid reader
+* Power everything off of a 5v wall wart.
+* Query a database over WiFi with card data.
+* Controll Relays, Lights, Door latches
+
+![pcb](board.png)
