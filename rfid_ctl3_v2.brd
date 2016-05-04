@@ -1425,7 +1425,27 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="X1" pad="3"/>
 <wire x1="23.3" y1="20.383" x2="24.506" y2="19.177" width="0.254" layer="1" curve="90"/>
 <wire x1="24.506" y1="19.177" x2="25.4" y2="19.177" width="0.254" layer="1"/>
-<wire x1="23.3" y1="20.383" x2="26.8786" y2="30.7826" width="0" layer="19" extent="1-1"/>
+<wire x1="53.2976" y1="5.5558" x2="71.7504" y2="22.1026" width="0" layer="19" extent="1-1"/>
+<wire x1="50.6052" y1="5.5338" x2="53.2976" y2="5.5558" width="0" layer="19" extent="1-1"/>
+<wire x1="34.346" y1="3.472" x2="50.6052" y2="5.5338" width="0" layer="19" extent="1-1"/>
+<wire x1="29.1058" y1="17.164" x2="34.346" y2="3.472" width="0" layer="19" extent="1-1"/>
+<wire x1="32.097" y1="18.4568" x2="29.1058" y2="17.164" width="0" layer="19" extent="1-1"/>
+<wire x1="25.4" y1="19.177" x2="29.1058" y2="17.164" width="0" layer="19" extent="1-1"/>
+<wire x1="26.8786" y1="30.7826" x2="23.3" y2="20.383" width="0" layer="19" extent="1-1"/>
+<wire x1="25.146" y1="33.02" x2="26.8786" y2="30.7826" width="0" layer="19" extent="1-1"/>
+<wire x1="27.6" y1="37.1" x2="25.146" y2="33.02" width="0" layer="19" extent="1-1"/>
+<wire x1="30.945" y1="36.3068" x2="27.6" y2="37.1" width="0" layer="19" extent="1-1"/>
+<wire x1="32.215" y1="36.3068" x2="30.945" y2="36.3068" width="0" layer="19" extent="1-1"/>
+<wire x1="33.485" y1="36.3068" x2="32.215" y2="36.3068" width="0" layer="19" extent="1-1"/>
+<wire x1="38.1" y1="37.1" x2="33.485" y2="36.3068" width="0" layer="19" extent="1-1"/>
+<wire x1="41.445" y1="36.3068" x2="38.1" y2="37.1" width="0" layer="19" extent="1-1"/>
+<wire x1="42.715" y1="36.3068" x2="41.445" y2="36.3068" width="0" layer="19" extent="1-1"/>
+<wire x1="43.985" y1="36.3068" x2="42.715" y2="36.3068" width="0" layer="19" extent="1-1"/>
+<wire x1="12.2648" y1="34.657" x2="23.303" y2="34.312" width="0" layer="19" extent="1-1"/>
+<wire x1="6.449" y1="36.064" x2="12.2648" y2="34.657" width="0" layer="19" extent="1-1"/>
+<wire x1="5.431" y1="31.562" x2="6.449" y2="36.064" width="0" layer="19" extent="1-1"/>
+<wire x1="9.9354" y1="45.55" x2="6.449" y2="36.064" width="0" layer="19" extent="1-1"/>
+<wire x1="19.943" y1="45.55" x2="9.9354" y2="45.55" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="+3V3">
 <contactref element="C2" pad="+"/>
